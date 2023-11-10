@@ -1,0 +1,36 @@
+{
+    "admin":[
+        {
+            "name":"soski",
+            "pseudo":"soski",
+            "mdp":"test",
+            "email":"k_uro@live.fr"
+        }
+    ],
+    "boutons":[
+        {
+            "name":"Inventaire",
+            "imageURL":"./assets/gameIMG/inventaire.png"
+        },
+        {
+            "name":"Village",
+            "imageURL":"./assets/gameIMG/village.png"
+        },
+        {
+            "name":"Stats",
+            "imageURL":"./assets/gameIMG/stats.png"
+        },
+        {
+            "name":"Pouvoirs",
+            "imageURL":"./assets/gameIMG/pouvoirs.png"
+        },
+        {
+            "name":"Boutique",
+            "imageURL":"./assets/gameIMG/boutique.png"
+        },
+        {
+            "name":"Option",
+            "imageURL":"./assets/gameIMG/options.png"
+        }
+    ]
+}
